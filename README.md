@@ -5,7 +5,7 @@
 <div align = "center">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lazarogust/)
-[<img src="https://img.shields.io/badge/behance-0057FF?style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/AstrOOnauta)
+[<img src="https://img.shields.io/badge/behance-0057FF?style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/[zamurakstudio)
 
 </div>
 
